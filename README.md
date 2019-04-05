@@ -1,2 +1,2 @@
-FlowerShop-Co
+FlowerShop
 
